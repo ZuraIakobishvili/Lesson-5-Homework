@@ -1,0 +1,106 @@
+/*  Navigation style */
+.nav-main {
+	width: 1400px;
+	height: 50px;
+	vertical-align: middle;
+	position: relative;
+}
+
+.top-nav {
+	display: inline-block;
+
+}
+
+.text-logo {
+	color: #FA6980;
+	font-size: 13px;
+	font-weight:bold;
+	margin-top: 18px;
+	margin-left: 20px;
+	margin-bottom: 17px;
+	
+}	
+
+.nav-home {
+	color: #343638;
+	font-size: 11px;
+	font-weight: bold;
+	margin-left: 92px;
+}
+
+.nav-grey {
+	color: #577CA2;
+	font-size: 11px;
+}
+
+.nav-discovery {
+	margin-left: 27px;
+}
+
+.nav-photos {
+	margin-left: 22px;
+}
+
+.nav-contact { 
+	margin-left: 22px;
+ }
+
+.logo {
+	width: 30px;
+	height: 30px;
+	position: relative;
+	top: 11px;
+	margin-left: 40px;
+
+}
+
+/* TOP-SECTION STYLE */
+
+.top-section {
+	
+	width: 1160px;
+	height: 410px;
+	margin-left: 140px;
+
+}
+
+.H2-class {
+	font-size: 24px;
+	font-weight: bold;
+	
+	
+}
+
+.left-block {
+	display: inline-block;
+	margin-top: 40px;
+	width: 360px;
+	height: 350px;
+}
+
+.left-image {
+	width: 360px;
+	height: 180px;
+	
+}
+
+.top-text {
+	width: 280px;
+	height: 38px;
+	color: #A6ADB4;
+}
+
+.middle-block {
+	display: inline-block;
+	margin-left: 40px;
+
+}
+
+.right-block {
+	display: inline-block;
+	margin-left: 32px;
+}
+
+
+
+
