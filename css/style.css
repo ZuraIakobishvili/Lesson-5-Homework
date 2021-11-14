@@ -240,7 +240,7 @@ body {
 	height: 13px;
 	color: #ffffff;
 	vertical-align:top;
-	margin-left: 40px;
+	margin-left: 140px;
 	margin-top: 56px;
 	}
 
@@ -266,7 +266,7 @@ body {
 	height: 9px;
 	font-size: 11px;
 	margin-top: 56px;
-	margin-left: 40px;
+	margin-left: 240px;
 	vertical-align: top;
 }
 
@@ -283,7 +283,7 @@ body {
 .footer-svg-all {
 	display: inline-block;
 	vertical-align: top;
-	margin-left: 165px;
+	margin-left: 130px;
 	
 	
 }
