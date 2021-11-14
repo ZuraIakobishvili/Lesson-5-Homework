@@ -1,4 +1,18 @@
 /*  Navigation style */
+
+.header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+
+}
+body {
+	padding-top: 50px;
+}
+
+
+
 .nav-main {
 	width: 1400px;
 	height: 50px;
@@ -153,27 +167,135 @@
 .bottom-img1  {
 	width: 760px;
 	height: 430px;
-}
-
-.bottom-img2 {
-	width: 760px;
-	height: 430px
-	display: inline;
-}
-
-.bottom-right {
-	width: 360px;
-	height: 210px;
-}
-
-.wtf {
-	width: 360px;
-	height: 896px;
+	
 }
 
 .bottom-text-img {
 	width: 760px;
 	height: 430px;
 	margin-top: 40px;
+	position: relative;
 
 }
+
+.bottom-text {
+	position: absolute;
+	left: 308px;
+	top: 104px;
+	color: black;
+	width: 280px;
+	height: 16px;
+
+}
+
+.bottom-img2 {
+	width: 760px;
+	height: 430px;
+	margin-top: 40px;
+	
+}
+
+.bottom-right {
+	width: 360px;
+	height: 210px;
+}
+.wtf1 {
+	display: inline-block;
+}
+
+
+
+.wtf {
+	width: 360px;
+	height: 896px;
+	display: inline-block;
+	position: relative;
+	margin-left: 40px;
+	vertical-align: bottom;
+}
+
+.img7 {
+	margin-top: 102px;
+}
+
+.img8 {
+	margin-top: 102px;
+
+}
+
+
+/*FOOTER STYLE*/
+
+.footer {
+	width: 1440px;
+	height: 200px;
+	background:#A6ADB4 ;
+	margin-top: 37px;
+	
+}
+
+.logo-footer {
+	display: inline-block;
+	width: 37px;
+	height: 13px;
+	color: #ffffff;
+	vertical-align:top;
+	margin-left: 40px;
+	margin-top: 56px;
+	}
+
+.footer-nav1 {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 56px;
+}
+.footer-nav2 {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 56px;
+
+}
+.footer-nav3 {
+	display: inline-block;
+	margin-left: 40px;
+	margin-top: 56px;
+}
+.footer-nav4 {
+	display: inline-block;
+	width: 243px;
+	height: 9px;
+	font-size: 11px;
+	margin-top: 56px;
+	margin-left: 40px;
+	vertical-align: top;
+}
+
+.footer-svg {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	margin-top: 56px;
+}
+.nav-all {
+	color: #CBD0D3;
+	margin-top: 40px;
+}
+.footer-svg-all {
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 165px;
+	
+	
+}
+
+.twitter {
+	margin-left: 32px;
+}
+.facebook {
+	margin-left: 32px;
+}
+.web {
+	margin-left: 32px;
+}
+
+
